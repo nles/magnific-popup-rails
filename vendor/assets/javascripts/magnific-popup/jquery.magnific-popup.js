@@ -145,9 +145,9 @@ MagnificPopup.prototype = {
 	 */
 	open: function(data) {
 
-		if(!_body) {
+		//if(!_body) {
 			_body = $(document.body);
-		}
+		//
 
 		var i;
 
